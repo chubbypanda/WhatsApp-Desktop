@@ -26,8 +26,11 @@ A simple & beautiful desktop client for WhatsApp which runs on OS X, Windows and
 
 ### Pre-requisites
 
-    # install gulp
+    # install gulp globally
     npm install -g gulp
+    
+    # install gulp in your project dependencies
+    npm install --save-dev gulp
 
     # install dependencies
     npm install
